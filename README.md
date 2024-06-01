@@ -2,7 +2,7 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 
 ## Certificate
-![Certificate](path/to/certificate-image)
+![Certificate](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_mqcZSkwk6aLRDHutZ_1717235984112_completion_certificate.pdf)
 
 ## Task - 1: Project Understanding
 
